@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/userad-didlogic-mcp-badge.png)](https://mseep.ai/app/userad-didlogic-mcp)
+
 # Didlogic MCP Server
 
 A Model Context Protocol (MCP) server implementation for the Didlogic API. This server allows Large Language Models (LLMs) to interact with Didlogic services through a standardized interface.
